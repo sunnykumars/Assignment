@@ -1,5 +1,4 @@
 from flask import Flask
-from collections import Counter
 import requests
 import json
 import math
